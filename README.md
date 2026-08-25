@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 My name is Joe Holyoake
+After close to ten years working as a writer and editor, I've recently undertaken a Level 3 Data Analysis Skills Bootcamp and am looking for new opportunities that will combine my previous creative experience with my new data skills.
 
 <!--
 **joeholyoake/joeholyoake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
